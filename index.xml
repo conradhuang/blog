@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>菩提樹下說書人</title>
-    <link>https://wjhuang.net/</link>
+    <link>https://conradhuang.github.io/blog/</link>
     <description>Recent content on 菩提樹下說書人</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 08 Jun 2020 12:00:48 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 12:28:05 +0800</lastBuildDate>
     
-	<atom:link href="https://wjhuang.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://conradhuang.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>https://wjhuang.net/posts/test/</link>
-      <pubDate>Mon, 08 Jun 2020 12:00:48 +0800</pubDate>
+      <title>20200608 First Post</title>
+      <link>https://conradhuang.github.io/blog/posts/20200608-first-post/</link>
+      <pubDate>Mon, 08 Jun 2020 12:28:05 +0800</pubDate>
       
-      <guid>https://wjhuang.net/posts/test/</guid>
-      <description>Hello World </description>
+      <guid>https://conradhuang.github.io/blog/posts/20200608-first-post/</guid>
+      <description>從一個小故事說起 </description>
     </item>
     
   </channel>
